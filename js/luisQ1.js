@@ -32,11 +32,11 @@ Quem foi Arariboia?
         
         }
 
-        var resposta = document.querySelector('#answer').innerText = 'Oh nao, ja era!!'
-        var button = document.querySelector('.playButton').style.display = 'none'
+      
        
     }
        
+  
    
 }
 

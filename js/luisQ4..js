@@ -50,6 +50,8 @@ var resposta = prompt(`Digite o NÚMERO da opção na qual será o seu plano de 
 
         
         }
+
+    
         
     }
    

@@ -33,6 +33,6 @@ Qual era o verdadeiro nome de Dom Pedro II?
        
     }
        
-   console.log(hmm)
+    
 }
 

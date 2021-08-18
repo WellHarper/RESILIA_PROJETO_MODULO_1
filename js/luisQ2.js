@@ -32,9 +32,11 @@ Qual o Estado foi o Distrito Federal durante 1960 a 1975
         
         }
 
+
        
     }
+
        
-   console.log(hmm)
+   
 }
 
