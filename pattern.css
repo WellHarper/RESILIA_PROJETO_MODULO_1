@@ -1,0 +1,14 @@
+body {
+    background-image: url(img/céu2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Mario;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #F7CF33;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 55px;
+}
