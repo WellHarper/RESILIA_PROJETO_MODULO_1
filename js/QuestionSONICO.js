@@ -114,7 +114,7 @@ function Question1() {
                        var resposta = document.querySelector('#answer').innerText = 'SIM!! CAZUZA E FREJAT!! O POETA ESTA VIVO!! VIVA CAZUZA!! VIVA FREJAT'
                        var button = document.querySelector('.playButton').style.display = 'none'
                         setTimeout(function() {
-                            return  window.location.href = "luisegidio4.html";
+                            return  window.location.href = "luisegidioFIM.html";
                         }, 4000)
                     
                     }
