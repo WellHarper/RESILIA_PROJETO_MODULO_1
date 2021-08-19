@@ -3,7 +3,7 @@ function Question1() {
 
     do{
     
-    var resposta = prompt(`Por favor, Digite o NÚMERO da resposta desejada. Vazio não é a resposta:
+    var resposta = prompt(`Por favor, Digite o NÚMERO da resposta desejada:
     Quem foi Arariboia?
     1- Presidente da Bolivia.
     2- Chefe da Tribo Temimó, localizada no norte do Brasil. 
